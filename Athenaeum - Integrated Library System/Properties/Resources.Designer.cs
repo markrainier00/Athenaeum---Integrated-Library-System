@@ -129,5 +129,35 @@ namespace Athenaeum___Integrated_Library_System.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sketch1685535176472 {
+            get {
+                object obj = ResourceManager.GetObject("sketch1685535176472", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sketch1685535206940 {
+            get {
+                object obj = ResourceManager.GetObject("sketch1685535206940", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sketch1685548659436 {
+            get {
+                object obj = ResourceManager.GetObject("sketch1685548659436", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

@@ -44,19 +44,5 @@ namespace Athenaeum___Integrated_Library_System
             form3.Show();
             this.Hide();
         }
-
-        private void listofborrowerbutton_Click(object sender, EventArgs e)
-        {
-            ListOfBorrowerPage form4 = new ListOfBorrowerPage();
-            form4.Show();
-            this.Hide();
-        }
-
-        private void listofreservationbutton_Click(object sender, EventArgs e)
-        {
-            ListOfReservationPage form5 = new ListOfReservationPage();
-            form5.Show();
-            this.Hide();
-        }
     }
 }
